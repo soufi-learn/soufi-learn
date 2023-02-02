@@ -16,9 +16,7 @@ contact me by email:‌ [tahsinsoufizade@gmail.com](mailto:tahsinsoufizade@gmail
 * Bootstrap
 * React
 
-# My Social Network
-### [Instagram](https://instagram.com/soufi_learn) &nbsp; [Telegram](https://t.me/soufi_learn) &nbsp; [Aparat](https://www.aparat.com/soufi_learn)
-
+<h1>My Social Network</h1>
 <a href="https://instagram.com/soufi_learn" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="30" />
 </a>
