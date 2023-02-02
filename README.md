@@ -7,7 +7,7 @@
    // code for coloring
 ```
 ```html
-   // code for coloring
+   this is html code
 ```
 ```js
    // code for coloring
