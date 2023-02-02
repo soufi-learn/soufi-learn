@@ -16,5 +16,5 @@
 
 # My Social Network
 ### [Instagram](https://instagram.com/soufi_learn) &nbsp; [Telegram](https://t.me/soufi_learn) &nbsp; [Aparat](https://www.aparat.com/soufi_learn)
-<hr/>
-## [My Resume Site](https://tahsin-soufizade.netlify.app/)
+<br/>
+## [My Resume Site](https://tahsin-soufizade.netlify.app)
