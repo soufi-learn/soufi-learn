@@ -16,4 +16,6 @@ contact me by email:‌ [tahsinsoufizade@gmail.com](mailto:tahsinsoufizade@gmail
 
 # My Social Network
 ### [Instagram](https://instagram.com/soufi_learn) &nbsp; [Telegram](https://t.me/soufi_learn) &nbsp; [Aparat](https://www.aparat.com/soufi_learn)
-![instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)
+<a href="https://instagram.com/soufi_learn" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soufilearn" height="30" width="40" />
+</a>
