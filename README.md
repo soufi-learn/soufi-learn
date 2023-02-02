@@ -23,5 +23,5 @@ contact me by email:‌ [tahsinsoufizade@gmail.com](mailto:tahsinsoufizade@gmail
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
   
   <a href="https://t.me/soufi_learn" target="blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" alt="telegram" height="30" width="40" style="object-fit: cover;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" alt="telegram" width="40" />
 </a>
