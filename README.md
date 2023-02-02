@@ -14,8 +14,5 @@
 * Bootstrap
 * React
 
-<br/>
-
 # My Social Network
 ### [Instagram](https://instagram.com/soufi_learn) <nbsp/> [Telegram](https://t.me/soufi_learn) <nbsp/> [Aparat](https://www.aparat.com/soufi_learn)
-<g xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges"><rect width="114" height="28" fill="#2ca5e0"/></g>
