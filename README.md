@@ -2,7 +2,7 @@
   <a href='https://instagram.com/soufi_learn'>Soufi learn</a>
 </h1>
 
-## This is Tahsin Soufizade 💙
+## This is <a href='https://instagram.com/tahsin_soufizade' style='color: inherit;'>Tahsin Soufizade</a> 💙
 
 <p>I Teach FrontEnd Languages With <b>Good Feel</b> And <b>Positive Energy</b> 😁</p>
 <P>If You Want To See My Resume , Click <a href='https://tahsin-soufizade.netlify.app'><b>Here</b></a></p>
