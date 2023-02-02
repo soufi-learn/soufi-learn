@@ -4,9 +4,9 @@
 
 ## This is Tahsin Soufizade 💙
 
-<p>I Teach FrontEnd Languages With Good Feel And Positive Energy 😁</p>
+<p>I Teach FrontEnd Languages With <b>Good Feel</b> And <b>Positive Energy</b> 😁</p>
 <P>If You Want To See My Resume , Click <a href='https://tahsin-soufizade.netlify.app'><b>Here</b></a></p>
-<p>contact me by email:‌ <a href='mailto:tahsinsoufizade@gmail.com'>tahsinsoufizade@gmail.com</a></p>
+<p>contact me by email:‌ <a href='mailto:tahsinsoufizade@gmail.com'><b>tahsinsoufizade@gmail.com</b></a></p>
 
 # My Expertise
 * HTML & CSS
