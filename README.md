@@ -24,9 +24,9 @@ contact me by email:‌ [tahsinsoufizade@gmail.com](mailto:tahsinsoufizade@gmail
 </a>
 &nbsp; &nbsp;
 <a href="https://t.me/soufi_learn" target="blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" alt="telegram" width="30" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" alt="telegram" width="35" />
 </a>
   &nbsp; &nbsp;
  <a href="https://www.aparat.com/soufi_learn" target="blank">
-  <img src="https://cdn.cdnlogo.com/logos/a/8/aparat.svg" alt="telegram" width="30" />
+  <img src="https://cdn.cdnlogo.com/logos/a/8/aparat.svg" alt="telegram" width="40" />
 </a>
