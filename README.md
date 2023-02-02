@@ -5,8 +5,6 @@
 ### I Teach FrontEnd Languages With Good Feel And Positive Energy 😁
 ### You Can See My work Samples In My [Instagram Page](https://instagram.com/soufi_learn) 😎
 
-<br/>
-
 # My Expertise
 * HTML & CSS
 * JavaScript
@@ -19,6 +17,6 @@
 <br/>
 
 # My Social Network
-* ### [Instagram](https://instagram.com/soufi_learn)
-* ### [Telegram](https://t.me/soufi_learn)
-* ### [Aparat](https://www.aparat.com/soufi_learn)
+### [Instagram](https://instagram.com/soufi_learn)
+### [Telegram](https://t.me/soufi_learn)
+### [Aparat](https://www.aparat.com/soufi_learn)
