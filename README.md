@@ -6,7 +6,7 @@
 
 <p>I Teach FrontEnd Languages With <b>Good Feel</b> And <b>Positive Energy</b> 😁</p>
 <P>If You Want To See My Resume , Click <a href='https://tahsin-soufizade.netlify.app'><b>Here</b></a></p>
-<p>contact me by email:‌ <a href='mailto:tahsinsoufizade@gmail.com'><b>tahsinsoufizade@gmail.com</b></a></p>
+<p>Contact Me By Email:‌ <a href='mailto:tahsinsoufizade@gmail.com'><b>tahsinsoufizade@gmail.com</b></a></p>
 
 <h1>My Expertise</h1>
 <ul>
