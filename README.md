@@ -4,8 +4,8 @@
 
 I Teach FrontEnd Languages With Good Feel And Positive Energy 😁 <br/>
 You Can See My work Samples In My [Instagram Page](https://instagram.com/soufi_learn) 😎 <br/>
-If You Want To See My Resume , Click [Here](https://tahsin-soufizade.netlify.app)
-You can contact me by email:‌ [tahsinsoufizade@gmail.com](mailto:tahsinsoufizade@gmail.com)
+If You Want To See My Resume , Click [Here](https://tahsin-soufizade.netlify.app) <br/>
+contact me by email:‌ [tahsinsoufizade@gmail.com](mailto:tahsinsoufizade@gmail.com)
 # My Expertise
 * HTML & CSS
 * JavaScript
