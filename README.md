@@ -1,9 +1,9 @@
-## [Tahsin Soufizade (Soufi Learn)](https://instagram.com/soufi_learn)
-This is Tahsin Soufizade 💙
+# [Tahsin Soufizade (Soufi Learn)](https://instagram.com/soufi_learn)
+##This is Tahsin Soufizade 💙
 <br/>
-I Teach FrontEnd Languages With Good Feel And Positive Energy 😁
+## I Teach FrontEnd Languages With Good Feel And Positive Energy 😁
 
-## My Expertise
+# My Expertise
 * HTML & CSS
 * JavaScript
 * Bootstrap
