@@ -8,14 +8,15 @@
 <P>If You Want To See My Resume , Click <a href='https://tahsin-soufizade.netlify.app'><b>Here</b></a></p>
 <p>contact me by email:‌ <a href='mailto:tahsinsoufizade@gmail.com'><b>tahsinsoufizade@gmail.com</b></a></p>
 
-# My Expertise
-* HTML & CSS
-* JavaScript
-* Bootstrap
-* JQuery
-* Git & Github
-* Bootstrap
-* React
+<h1>My Expertise</h1>
+<ul>
+  <li>HTML & CSS</li>
+  <li>JavaScript</li>
+  <li>Bootstrap</li>
+  <li>JQuery</li>
+  <li>Git & Github</li>
+  <li>React</li>
+  </ul>
 
 <h1>My Social Network</h1>
 <a href="https://instagram.com/soufi_learn" target="blank" title='instagram'>
