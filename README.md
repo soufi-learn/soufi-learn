@@ -10,10 +10,10 @@
 
 <h1>My Expertise</h1>
 <ul>
-  <li>HTML & CSS</li>
+  <li>HTML & CSS (responsive design)</li>
   <li>JavaScript</li>
-  <li>Bootstrap</li>
-  <li>JQuery</li>
+  <li>tailwind css</li>
+  <li>sass</li>
   <li>Git & Github</li>
   <li>React</li>
   </ul>
