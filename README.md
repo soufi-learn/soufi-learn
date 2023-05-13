@@ -3,9 +3,9 @@
 </h1>
 
 <h2>This is Tahsin Soufizade 💙</h2>
-
-<p>I Teach FrontEnd Languages With <b>Good Feel</b> And <b>Positive Energy</b> 😁</p>
-<P>If You Want To See My Resume , Click <a href='https://tahsin-soufizade.netlify.app'><b>Here</b></a></p>
+<h2>people calls me soufi :) because of my brand, <a href='https://instagram.com/soufi_learn'>Soufi Learn</a></h2>
+<p>I'm intrested in FrontEnd Programming!
+<p></p>
 <p>Contact Me By Email:‌ <a href='mailto:tahsinsoufizade@gmail.com'><b>tahsinsoufizade@gmail.com</b></a></p>
 
 <h1>My Expertise</h1>
