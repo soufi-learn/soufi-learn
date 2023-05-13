@@ -3,7 +3,7 @@
 </h1>
 
 <h2>This is Tahsin Soufizade 💙</h2>
-<h2>people calls me soufi :) because of my brand, <a href='https://instagram.com/soufi_learn'>Soufi Learn</a></h2>
+<ppeople calls me soufi :) because of my brand, <a href='https://instagram.com/soufi_learn'>Soufi Learn</a></p
 <p>I'm intrested in FrontEnd Programming!
 <p></p>
 <p>Contact Me By Email:‌ <a href='mailto:tahsinsoufizade@gmail.com'><b>tahsinsoufizade@gmail.com</b></a></p>
