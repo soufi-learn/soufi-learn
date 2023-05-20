@@ -19,6 +19,7 @@
   <li>responsive Design</li>
   <li>Sass</li>
   <li>Redux</li>
+  <li>Material UI</li>
 
 <h1>My Social Network</h1>
 <a href="https://instagram.com/soufi_learn" target="blank" title='instagram'>
