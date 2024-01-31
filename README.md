@@ -25,9 +25,6 @@
 <a href="https://instagram.com/soufi_learn" target="blank" title='instagram'>
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="30" />
 </a>
-<a href="https://instagram.com/soufi_learn" target="blank" title='instagram'>
-  <img src="https://github.com/burgyl/youtube-icon-link/blob/main/icon_128.png?raw=true" alt="instagram" width="30" />
-</a>
 &nbsp; &nbsp;
 <a href="https://t.me/soufi_learn" target="blank" title='Telegram'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" alt="telegram" width="31" />
