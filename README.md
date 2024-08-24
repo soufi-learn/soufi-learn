@@ -20,7 +20,7 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/742126d474d8314230c293fa38b2fa9ff827e5fac43d9808c561be5887a4fb5f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f534153532d686f7470696e6b2e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d53415353266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/742126d474d8314230c293fa38b2fa9ff827e5fac43d9808c561be5887a4fb5f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f534153532d686f7470696e6b2e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d53415353266c6f676f436f6c6f723d7768697465" alt="SASS" data-canonical-src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&amp;logo=SASS&amp;logoColor=white" style="max-width: 100%;"></a>
   <li>React | Redux</li>
   <li>Next Js</li>
-  <li>Tailwind css</li>
+  <li>Tailwind css | MUI</li>
 
 
 <h1>My Social Network</h1>
