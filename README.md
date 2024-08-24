@@ -2,9 +2,10 @@
   <a href='https://instagram.com/soufi_learn'>Soufi learn</a>
 </h1>
 
-<h2>This is Tahsin Soufizade 💙</h2>
-<p>people calls me soufi! because of my brand, <a href='https://instagram.com/soufi_learn'>Soufi Learn</a> :)</p>
-<p>I'm intrested in FrontEnd Programming!</p>
+<h2>This is Tahsin Soufizade</h2>
+<h4>Co-founder of  <a href='https://instagram.com/soufi_learn'>Soufi Learn</a></h4>
+<p>people calls me soufi</p>
+<p>I'm intrested in FrontEnd Programming and Teaching it :)</p>
   
 <h1>My Expertise</h1>
 
@@ -16,10 +17,10 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3b41d3ae73bc489dbb2be32e772cc814e3a76e372027056c72e5b970c04684a5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7461696c77696e646373732d2532333338423241432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465"><img alt="TailwindCSS" src="https://camo.githubusercontent.com/3b41d3ae73bc489dbb2be32e772cc814e3a76e372027056c72e5b970c04684a5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7461696c77696e646373732d2532333338423241432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8632f4c1ca3e44c8896d1d2babd3f5229cb0d5d78f459db7d7ed6fd2aa581ea5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4772617068514c2d4531303039383f7374796c653d666f722d7468652d6261646765266c6f676f3d6772617068716c266c6f676f436f6c6f723d7768697465"><img alt="GraphQL" src="https://camo.githubusercontent.com/8632f4c1ca3e44c8896d1d2babd3f5229cb0d5d78f459db7d7ed6fd2aa581ea5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4772617068514c2d4531303039383f7374796c653d666f722d7468652d6261646765266c6f676f3d6772617068716c266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/742126d474d8314230c293fa38b2fa9ff827e5fac43d9808c561be5887a4fb5f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f534153532d686f7470696e6b2e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d53415353266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/742126d474d8314230c293fa38b2fa9ff827e5fac43d9808c561be5887a4fb5f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f534153532d686f7470696e6b2e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d53415353266c6f676f436f6c6f723d7768697465" alt="SASS" data-canonical-src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&amp;logo=SASS&amp;logoColor=white" style="max-width: 100%;"></a>
-  <li>Bootstrap & responsive Design</li>
-  <li>Sass</li>
-  <li>Redux</li>
-  <li>Material UI</li>
+  <li>Tailwind</li>
+  <li>React | Redux</li>
+  <li>Material UI | Headless UI</li>
+  <li>Next Js</li>
 
 <h1>My Social Network</h1>
 <a href="https://instagram.com/soufi_learn" target="blank" title='instagram'>
