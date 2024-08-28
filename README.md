@@ -1,4 +1,4 @@
-<h1 style="text-align: center; background-color: red">
+<h1 style="color: red;">
   <a href='https://instagram.com/soufi_learn'>Soufi learn</a>
 </h1>
 
