@@ -10,7 +10,7 @@
   
 <div>
   <h1>My Expertise</h1>
-  <img src='https://skillicons.dev/icons?i=html,css,javascript,git,react,next,tailwindcss,sass,graphql' alt='Expertise'/>
+  <img src='https://skillicons.dev/icons?i=html,css,javascript,git,react,next,tailwindcss,sass,graphql,mui' alt='Expertise'/>
 </div>
 
   <li>React | Redux</li>
