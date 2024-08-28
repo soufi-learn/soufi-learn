@@ -4,14 +4,10 @@
   <img src="./logo.png" alt="soufilean logo" width="270px" />
 </div>
 
-<div align='center'>
-  <h1>
+  <h1 align='center'>
     <a href='https://instagram.com/soufi_learn'>Soufi learn</a>
   </h1>
-  <h2>This is Tahsin Soufizade! people calls me soufi</h2>
-  <h4>Co-founder of  <a href='https://instagram.com/soufi_learn'>Soufi Learn</a></h4>
-  <p>I'm intrested in FrontEnd Programming and Teaching it :)</p>
-</div>
+ 
   
 <div>
   <h1>My Expertise</h1>
