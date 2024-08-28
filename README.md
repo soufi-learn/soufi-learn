@@ -8,7 +8,7 @@
     <h1>
     <a href='https://instagram.com/soufi_learn'>Soufi learn</a>
   </h1>
-  <h3>this is tahsin soufizade! people calls me soufi :)</h3>
+  <h3>this is Tahsin Soufizade! people calls me soufi :)</h3>
 </div>
  
   
