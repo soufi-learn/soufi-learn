@@ -13,11 +13,6 @@
   <img src='https://skillicons.dev/icons?i=html,css,javascript,git,react,next,tailwindcss,sass,graphql,mui' alt='Expertise'/>
 </div>
 
-  <li>React | Redux</li>
-  <li>Next Js</li>
-  <li>Tailwind css | MUI</li>
-
-
 <h1>My Social Network</h1>
 <a href="https://instagram.com/soufi_learn" target="blank" title='instagram'>
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="30" />
