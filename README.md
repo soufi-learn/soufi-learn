@@ -15,13 +15,13 @@
 
 <h1>My Social Network</h1>
 <a href="https://instagram.com/soufi_learn" target="blank" title='instagram'>
- <img src="https://skillicons.dev/icons?i=instagram" alt='instagram'/>
+ <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt='instagram'/>
 </a>
 &nbsp; &nbsp;
 <a href="https://t.me/soufi_learn" target="blank" title='Telegram'>
- <img src="https://skillicons.dev/icons?i=telegram" alt='telegram'/>
+ <img src="https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000" alt='telegram'/>
 </a>
   &nbsp; &nbsp;
  <a href="https://www.aparat.com/soufi_learn" target="blank" title='Aparat'>
-    <img src="https://skillicons.dev/icons?i=aparat" alt='aparat'/>
+    <img src="[https://skillicons.dev/icons?i=aparat](https://img.icons8.com/?size=100&id=19318&format=png&color=000000)" alt='youtube'/>
 </a>
