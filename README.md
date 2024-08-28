@@ -23,5 +23,5 @@
 </a>
   &nbsp; &nbsp;
  <a href="https://www.aparat.com/soufi_learn" target="blank" title='Aparat'>
-    <img src="[https://skillicons.dev/icons?i=aparat](https://img.icons8.com/?size=100&id=19318&format=png&color=000000)" alt='youtube'/>
+    <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" alt='youtube'/>
 </a>
