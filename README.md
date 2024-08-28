@@ -1,6 +1,10 @@
-<h1>
+<h1 style="text-align: center;">
   <a href='https://instagram.com/soufi_learn'>Soufi learn</a>
 </h1>
+
+<div style="display: flex; justify-content=center">
+  <img src="./logo.png" alt='soufilean logo' width="200px" />
+</div>
 
 <div>
   <h2>This is Tahsin Soufizade! people calls me soufi</h2>
