@@ -10,7 +10,7 @@
   
 <div>
   <h1>My Expertise</h1>
-  <img src='https://skillicons.dev/icons?i=html,css,javascript,git,github,react,next,tailwindcss,sass,graphql,mui' alt='Expertise'/>
+  <img src='https://skillicons.dev/icons?i=html,css,javascript,git,github,react,next,tailwindcss,bootstrap,sass,graphql,mui' alt='Expertise'/>
 </div>
 
 <h1>My Social Network</h1>
