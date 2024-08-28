@@ -4,9 +4,12 @@
   <img src="./logo.png" alt="soufilean logo" width="270px" />
 </div>
 
-  <h1 align='center'>
+<div align='center'>
+    <h1>
     <a href='https://instagram.com/soufi_learn'>Soufi learn</a>
   </h1>
+  <h3>this is tahsin soufizade! people calls me soufi :)</h3>
+</div>
  
   
 <div>
