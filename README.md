@@ -6,7 +6,7 @@
     <h1>
     <a href='https://instagram.com/soufi_learn'>Soufi Learn</a>
   </h1>
-  <h4>This is Tahsin Soufizade! A Junior Frontend Programmer</h4>
+  <h4>Hi, I'm Tahsin Soufizadeh — a Junior Frontend Developer who loves teaching.</h4>
 </div>
  
 ##  My Expertise 
